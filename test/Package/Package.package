@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="1384a213-6901-48d1-a30c-e22e44387688" 
+        solutionId="1384a213-6901-48d1-a30c-e22e44387688" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPFilter_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="81b216c1-00ae-42df-bef5-b303fe5c2e30" />
+  </features>
+</package>
