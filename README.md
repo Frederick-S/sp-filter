@@ -10,7 +10,7 @@ npm install sp-filter --save
 ```js
 var filter = require('sp-filter');
 
-var webs = find(webCollection, function (current, index, collection) {
+var webs = filter(webCollection, function (current, index, collection) {
     return current.get_title().indexOf('Title') > 0;
 });
 ```
