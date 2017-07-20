@@ -1,4 +1,6 @@
 # sp-filter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-filter.svg)](https://greenkeeper.io/)
 Looks through SharePoint object collection and returns an array of objects that pass a truth test.
 
 ## Installation
